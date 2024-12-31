@@ -18,12 +18,15 @@ Ethernet：Intel Ethernet Connection (2) I219-V
 ##  安装
 
 1. BIOS 设置
+
+![Intel BIOS settings](image-intelBIOSSettings.png)
+
 2. **设置U盘UEFI分区为首选启动引导盘**
-3. 重启电脑选择 `Install macOS Monterey` 选项准备安装
-4. 加载完成后，选择**磁盘工具**格式化磁盘为 `APFS` 和 `GUID` 分区
-5. 磁盘格式化完成后回到安装页面继续安装即可
-6. 安装完进入系统后，把U盘EFI拷贝到系统磁盘EFI分区
-7. BIOS设置电脑磁盘UEFI分区为首选启动引导盘
+2. 重启电脑选择 `Install macOS Monterey` 选项准备安装
+3. 加载完成后，选择**磁盘工具**格式化磁盘为 `APFS` 和 `GUID` 分区
+4. 磁盘格式化完成后回到安装页面继续安装即可
+5. 安装完进入系统后，把U盘EFI拷贝到系统磁盘EFI分区
+6. BIOS设置电脑磁盘UEFI分区为首选启动引导盘
 
 ##  问题
 
